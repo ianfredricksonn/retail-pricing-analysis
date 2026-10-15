@@ -219,6 +219,8 @@ The dashboard allows a user to:
 5. Calculate implied quantity and revenue changes.
 6. Compare five predefined pricing scenarios using a table and dynamic chart.
 
+![Excel Scenario Model](outputs/figures/Excel_Scenario_Model.png)
+
 ### Dashboard Features
 
 - Product selection with data validation
