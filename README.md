@@ -169,7 +169,7 @@ The interaction model produced the following estimates:
 | Mid Volume | −2.47 |
 | High Volume | −2.73 |
 
-![Estimated Price Elasticity by Sales Volume](outputs/figures/Distribtuion_Avg_Product_Prices.png)
+![Estimated Price Elasticity by Sales Volume](outputs/figures/Distribution_Avg_Product_Prices.png)
 
 **Key finding:** Higher-volume products exhibited a stronger negative price–quantity association than lower-volume products.
 
